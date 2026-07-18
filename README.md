@@ -12,7 +12,7 @@ AI & Machine Learning Engineer | NLP | LLMs | Generative AI
 - 🧠 Passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI
 - 💻 Skilled in Python, SQL, Machine Learning, and AI application development
 - 📍 Based in Milan, Italy
-- 🌱 Currently building an end-to-end project portfolio
+- 🌱 Currently building end-to-end AI and Generative AI projects.
 
 ---
 
@@ -36,10 +36,23 @@ AI & Machine Learning Engineer | NLP | LLMs | Generative AI
 - LlamaIndex
 - Retrieval-Augmented Generation (RAG)
 
+### 🧠 NLP
+- NLTK
+- spaCy
+- Hugging Face
+- Sentence Transformers
+
 ### ⚙️ MLOps & Deployment
 - MLflow
 - Docker
 - FastAPI
+
+### ☁️ Cloud
+- AWS
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
 
 ### 📊 Data Science & Visualization
 - Pandas
@@ -60,7 +73,7 @@ AI & Machine Learning Engineer | NLP | LLMs | Generative AI
 
 - 🚀 Building end-to-end AI projects
 - 📚 Expanding my Generative AI expertise
-- 🤝 Contributing to open-source AI projects
+- 🤝 e AI projects
 - 📖 Continuous learning in AI and Machine Learning
 
 ---
