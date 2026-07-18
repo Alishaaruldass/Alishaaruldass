@@ -1,5 +1,3 @@
-<h3 align="center">Hey there, I'm <a href="https://github.com/alishaaruldass">Alisha Arul Dass</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
 <h1 align="center">Hi 👋, I'm Alisha Arul Dass</h1>
 
 <h3 align="center">
