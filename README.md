@@ -1,8 +1,4 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/alishaaruldass">Alisha Arul Dass</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-<p align="center">
-  <a href="https://github.com/alishaaruldass"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alishaaruldass?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/alishaaruldass"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
 
 <h1 align="center">Hi 👋, I'm Alisha Arul Dass</h1>
 
