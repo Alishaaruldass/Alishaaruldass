@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Alisha+Arul+Dass;Machine+Learning+Engineer;AI+Engineer;NLP+%7C+LLMs+%7C+Generative+AI;Building+End-to-End+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Alisha+Arul+Dass;Machine+Learning+Engineer;AI+Engineer;NLP+%7C+LLMs+%7C+Generative+AI;Building+End-to-End+AI+Projects" alt="Typing SVG" />
 </p>
 <h1 align="center">Hi 👋, I'm Alisha Arul Dass</h1>
 
