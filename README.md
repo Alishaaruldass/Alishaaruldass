@@ -8,11 +8,11 @@ AI & Machine Learning Engineer | NLP | LLMs | Generative AI
 
 ## 👩‍💻 About Me
 
-- 🤖 AI & Machine Learning enthusiast with experience in Machine Learning and NLP
+- 🤖 AI & Machine Learning Engineer with experience in Machine Learning and Natural Language Processing (NLP)
 - 🧠 Passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI
 - 💻 Skilled in Python, SQL, Machine Learning, and AI application development
 - 📍 Based in Milan, Italy
-- 🌱 Currently building my AI project portfolio
+- 🌱 Currently building an end-to-end project portfolio
 
 ---
 
